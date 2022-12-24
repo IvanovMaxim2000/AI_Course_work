@@ -1,2 +1,4 @@
 # AI_Course_work
-Dataset information
+# Student: Maxim Ivanov
+# Group: M80-114-22
+# Dataset: https://paperswithcode.com/dataset/sbd
